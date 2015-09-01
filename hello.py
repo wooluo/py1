@@ -1,0 +1,5 @@
+#coding=gbk
+print ("helloÎÒ")
+
+# coding=gbk
+print("ÖĞÎÄ")
